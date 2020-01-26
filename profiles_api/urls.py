@@ -14,5 +14,6 @@ urlpatterns = [
     path('hello-view/', views.HelloApiView.as_view()),
     path('saken-view/', views.SakenApiView.as_view()),
     path('family/', views.FamilyApiView.as_view()),
+    path('login/', views.UserLoginApiView.as_view()),
     path('', include(router.urls))
 ]
