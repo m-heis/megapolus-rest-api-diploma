@@ -1,3 +1,3 @@
-# Profiles REST API
+# Megapolis REST API
 
-Profiles REST API code.
+Megapolis REST API code.
